@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.java) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
 
 ### implementation
@@ -57,6 +58,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.java) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.java) |
 
 ---
