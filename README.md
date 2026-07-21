@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 7 |
+| 8 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (5)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
@@ -47,6 +47,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 912A | [Tricky Alchemy](https://codeforces.com/contest/912/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/912/A%20-%20Tricky%20Alchemy/solution.java) |
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.java) |
 
 ### math
