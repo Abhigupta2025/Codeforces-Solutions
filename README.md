@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (4)
 - [math](#math) (7)
@@ -31,6 +31,7 @@
 |---|---------|------------|----------|
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.java) |
+| 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.java) |
 
 ### constructive algorithms
 
@@ -58,6 +59,7 @@
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
+| 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.java) |
 
 ### hashing
 
