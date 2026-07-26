@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 10 |
+| 14 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (4)
@@ -31,6 +31,7 @@
 |---|---------|------------|----------|
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.java) |
+| 2236E | [Friendly Gifts](https://codeforces.com/contest/2236/problem/E) | 1700 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/E%20-%20Friendly%20Gifts/solution.java) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.java) |
 
 ### constructive algorithms
@@ -49,6 +50,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2236E | [Friendly Gifts](https://codeforces.com/contest/2236/problem/E) | 1700 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/E%20-%20Friendly%20Gifts/solution.java) |
 | 2247F | [Paths on a Grid](https://codeforces.com/contest/2247/problem/F) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/F%20-%20Paths%20on%20a%20Grid/solution.java) |
 
 ### greedy
