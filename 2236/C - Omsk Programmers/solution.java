@@ -3,10 +3,10 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         if (!sc.hasNextInt()) return;
-        int t = sc.nextInt();
+        int n = sc.nextInt();
         long[] u = new long[35];
         long[] v = new long[35];
-        while (t-- > 0) {
+        while (n-- > 0) {
             long a = sc.nextLong();
             long b = sc.nextLong();
             long x = sc.nextLong();
