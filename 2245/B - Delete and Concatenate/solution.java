@@ -5,11 +5,11 @@ public class Main {
         if (!sc.hasNextInt()) return;
         int t = sc.nextInt();
         while (t-- > 0) {
-            int n = sc.nextInt();
+            int m = sc.nextInt();
             long c = sc.nextLong();
-            long[] a = new long[n];
+            long[] a = new long[m];
             long totalSum = 0;
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < m; i++) {
                 a[i] = sc.nextLong();
                 totalSum += a[i];
             }
@@ -17,11 +17,11 @@ public class Main {
             
             long maxScore = Long.MIN_VALUE;
             long smallSum = 0;
-            for (int k = 0; k <= n / 2; k++) {
+            for (int k = 0; k <= m / 2; k++) {
                 if (k > 0) {
                     smallSum += a[k - 1];
                 }
-                long currentScore = totalSum - (n - k) * c - smallSum;
+                long currentScore = totalSum - (m - k) * c - smallSum;
                 if (currentScore > maxScore) {
                     maxScore = currentScore;
                 }
