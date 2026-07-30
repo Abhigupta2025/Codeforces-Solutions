@@ -6,21 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 12 |
+| 21 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (5)
-- [math](#math) (13)
+- [implementation](#implementation) (6)
+- [math](#math) (14)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -42,6 +42,7 @@
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 | 2236E | [Friendly Gifts](https://codeforces.com/contest/2236/problem/E) | 1700 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/E%20-%20Friendly%20Gifts/solution.java) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.java) |
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 
 ### constructive algorithms
 
@@ -92,6 +93,7 @@
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/A%20-%20Koshary/solution.java) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.java) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 
 ### math
 
@@ -110,6 +112,7 @@
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.java) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.java) |
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 
 ### number theory
 
