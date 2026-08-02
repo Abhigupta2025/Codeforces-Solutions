@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 14 |
+| 25 | 14 |
 
 ---
 
@@ -18,13 +18,13 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (6)
 - [math](#math) (15)
 - [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (2)
 
 ---
@@ -82,6 +82,7 @@
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2232/A%20-%20Convergence/solution.java) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.java) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.java) |
@@ -143,6 +144,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2232/A%20-%20Convergence/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.java) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.java) |
