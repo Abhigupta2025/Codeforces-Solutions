@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 14 |
+| 28 | 14 |
 
 ---
 
@@ -18,10 +18,10 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (14)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (6)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (4)
@@ -84,6 +84,7 @@
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2232/A%20-%20Convergence/solution.java) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.java) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.java) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.java) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.java) |
@@ -125,6 +126,7 @@
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.java) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.java) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.java) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.java) |
