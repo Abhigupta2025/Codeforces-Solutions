@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 14 |
+| 32 | 14 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (6)
 - [math](#math) (18)
-- [number theory](#number-theory) (1)
+- [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (3)
@@ -140,6 +140,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/26/A%20-%20Almost%20Prime/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 
 ### schedules
