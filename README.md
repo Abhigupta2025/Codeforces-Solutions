@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 15 |
+| 38 | 15 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (7)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (4)
 - [games](#games) (1)
@@ -55,6 +55,7 @@
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/C%20-%20Snowfall/solution.java) |
 | 2233B | [Different Distances](https://codeforces.com/contest/2233/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2233/B%20-%20Different%20Distances/solution.java) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.java) |
+| 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.java) |
 
 ### data structures
