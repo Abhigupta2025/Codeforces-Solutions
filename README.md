@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 15 |
+| 39 | 15 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (5)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [games](#games) (1)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (7)
 - [math](#math) (20)
@@ -63,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2247F | [Paths on a Grid](https://codeforces.com/contest/2247/problem/F) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/F%20-%20Paths%20on%20a%20Grid/solution.java) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 
 ### dp
 
@@ -102,6 +103,7 @@
 | 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.java) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.java) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 
 ### hashing
 
