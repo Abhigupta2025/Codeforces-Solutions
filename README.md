@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 15 |
+| 40 | 15 |
 
 ---
 
@@ -21,10 +21,10 @@
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (7)
-- [math](#math) (20)
+- [math](#math) (21)
 - [number theory](#number-theory) (4)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (4)
 - [two pointers](#two-pointers) (1)
 
@@ -147,6 +147,7 @@
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.java) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### number theory
 
@@ -172,6 +173,7 @@
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.java) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.java) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### strings
 
