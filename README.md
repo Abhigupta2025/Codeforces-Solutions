@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 15 |
+| 44 | 15 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (7)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [games](#games) (1)
@@ -22,7 +22,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (8)
 - [math](#math) (23)
-- [number theory](#number-theory) (5)
+- [number theory](#number-theory) (6)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
@@ -56,6 +56,7 @@
 | 2233B | [Different Distances](https://codeforces.com/contest/2233/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2233/B%20-%20Different%20Distances/solution.java) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.java) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.java) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.java) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.java) |
 
@@ -161,6 +162,7 @@
 | 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/26/A%20-%20Almost%20Prime/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.java) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.java) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 
