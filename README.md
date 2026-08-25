@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 15 |
+| 47 | 15 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [games](#games) (1)
-- [greedy](#greedy) (22)
+- [greedy](#greedy) (23)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (8)
-- [math](#math) (24)
-- [number theory](#number-theory) (6)
+- [math](#math) (25)
+- [number theory](#number-theory) (7)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (4)
@@ -102,6 +102,7 @@
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.java) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.java) |
 | 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.java) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
 | 2245A | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2245/A%20-%20Who%20Watches%20the%20Watchpig%3F/solution.java) |
 | 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.java) |
@@ -152,6 +153,7 @@
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.java) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.java) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
@@ -165,6 +167,7 @@
 | 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/26/A%20-%20Almost%20Prime/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.java) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.java) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
