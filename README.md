@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 15 |
+| 50 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
@@ -25,7 +25,7 @@
 - [number theory](#number-theory) (7)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (7)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -47,6 +47,7 @@
 | 2236E | [Friendly Gifts](https://codeforces.com/contest/2236/problem/E) | 1700 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/E%20-%20Friendly%20Gifts/solution.java) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### constructive algorithms
 
@@ -201,6 +202,7 @@
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### two pointers
 
