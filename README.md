@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 15 |
+| 51 | 15 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (24)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (27)
 - [number theory](#number-theory) (7)
 - [schedules](#schedules) (1)
@@ -123,6 +123,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 14A | [Letter](https://codeforces.com/contest/14/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/14/A%20-%20Letter/solution.java) |
 | 912A | [Tricky Alchemy](https://codeforces.com/contest/912/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/912/A%20-%20Tricky%20Alchemy/solution.java) |
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.java) |
 | 2211A | [Antimedian Deletion](https://codeforces.com/contest/2211/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2211/A%20-%20Antimedian%20Deletion/solution.java) |
