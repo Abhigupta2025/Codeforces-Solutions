@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 15 |
+| 53 | 15 |
 
 ---
 
@@ -18,9 +18,9 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [games](#games) (1)
-- [greedy](#greedy) (24)
+- [greedy](#greedy) (25)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (27)
 - [number theory](#number-theory) (7)
 - [schedules](#schedules) (1)
@@ -93,6 +93,7 @@
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2220/A%20-%20Blocked/solution.java) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
+| 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.java) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2232/A%20-%20Convergence/solution.java) |
@@ -128,6 +129,7 @@
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.java) |
 | 2211A | [Antimedian Deletion](https://codeforces.com/contest/2211/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2211/A%20-%20Antimedian%20Deletion/solution.java) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/A%20-%20Koshary/solution.java) |
+| 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.java) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.java) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
