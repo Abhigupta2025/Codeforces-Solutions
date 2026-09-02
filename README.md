@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 15 |
+| 56 | 15 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (5)
 - [games](#games) (1)
-- [greedy](#greedy) (26)
+- [greedy](#greedy) (27)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (11)
 - [math](#math) (29)
@@ -91,6 +91,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.java) |
+| 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.java) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.java) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2220/A%20-%20Blocked/solution.java) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
