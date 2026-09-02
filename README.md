@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 15 |
+| 54 | 15 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [games](#games) (1)
-- [greedy](#greedy) (25)
+- [greedy](#greedy) (26)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (11)
-- [math](#math) (27)
-- [number theory](#number-theory) (7)
+- [math](#math) (28)
+- [number theory](#number-theory) (8)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (8)
 - [strings](#strings) (5)
@@ -93,6 +93,7 @@
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2220/A%20-%20Blocked/solution.java) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
+| 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.java) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.java) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
@@ -146,6 +147,7 @@
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.java) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
+| 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.java) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/A%20-%20Koshary/solution.java) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/C%20-%20Snowfall/solution.java) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
@@ -173,6 +175,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/26/A%20-%20Almost%20Prime/solution.java) |
+| 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.java) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
