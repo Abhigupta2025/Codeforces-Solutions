@@ -6,27 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 15 |
+| 61 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (10)
-- [data structures](#data-structures) (2)
+- [data structures](#data-structures) (3)
 - [dp](#dp) (5)
 - [games](#games) (1)
-- [greedy](#greedy) (31)
+- [greedy](#greedy) (32)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (11)
-- [math](#math) (31)
+- [math](#math) (32)
 - [number theory](#number-theory) (8)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (8)
 - [strings](#strings) (5)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -34,6 +34,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.java) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.java) |
 
 ### brute force
@@ -69,6 +70,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.java) |
 | 2247F | [Paths on a Grid](https://codeforces.com/contest/2247/problem/F) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/F%20-%20Paths%20on%20a%20Grid/solution.java) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 
@@ -100,6 +102,7 @@
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
 | 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.java) |
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.java) |
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/B%20-%20Party%20Monster/solution.java) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.java) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
@@ -159,6 +162,7 @@
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
 | 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.java) |
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.java) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/A%20-%20Koshary/solution.java) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/C%20-%20Snowfall/solution.java) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.java) |
@@ -228,6 +232,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 
 ---
