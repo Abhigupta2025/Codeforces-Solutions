@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 15 |
+| 62 | 15 |
 
 ---
 
@@ -21,8 +21,8 @@
 - [greedy](#greedy) (32)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (11)
-- [math](#math) (32)
-- [number theory](#number-theory) (8)
+- [math](#math) (33)
+- [number theory](#number-theory) (9)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (8)
 - [strings](#strings) (5)
@@ -185,6 +185,7 @@
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
 ### number theory
 
@@ -198,6 +199,7 @@
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.java) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
 ### schedules
 
