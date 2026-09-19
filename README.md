@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 15 |
+| 65 | 15 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (11)
-- [constructive algorithms](#constructive-algorithms) (10)
+- [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (5)
 - [games](#games) (2)
-- [greedy](#greedy) (33)
+- [greedy](#greedy) (34)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (11)
 - [math](#math) (34)
@@ -58,6 +58,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.java) |
+| 2224A | [Zhily and Array Operating](https://codeforces.com/contest/2224/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2224/A%20-%20Zhily%20and%20Array%20Operating/solution.java) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2227/C%20-%20Snowfall/solution.java) |
 | 2229C1 | [We Be Flipping (Easy Version)](https://codeforces.com/contest/2229/problem/C1) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2229/C1%20-%20We%20Be%20Flipping%20(Easy%20Version)/solution.java) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.java) |
@@ -102,6 +103,7 @@
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.java) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.java) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2220/A%20-%20Blocked/solution.java) |
+| 2224A | [Zhily and Array Operating](https://codeforces.com/contest/2224/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2224/A%20-%20Zhily%20and%20Array%20Operating/solution.java) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/B%20-%20Alternating%20String/solution.java) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.java) |
