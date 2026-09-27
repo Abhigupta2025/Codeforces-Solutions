@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 15 |
+| 66 | 15 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (11)
-- [data structures](#data-structures) (3)
+- [data structures](#data-structures) (4)
 - [dp](#dp) (5)
 - [games](#games) (2)
-- [greedy](#greedy) (34)
+- [greedy](#greedy) (35)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (11)
 - [math](#math) (34)
@@ -73,6 +73,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
 | 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.java) |
 | 2247F | [Paths on a Grid](https://codeforces.com/contest/2247/problem/F) | Unrated | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2247/F%20-%20Paths%20on%20a%20Grid/solution.java) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
@@ -100,6 +101,7 @@
 |---|---------|------------|----------|
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.java) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.java) |
+| 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.java) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.java) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2220/A%20-%20Blocked/solution.java) |
