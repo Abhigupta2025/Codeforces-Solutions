@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 15 |
+| 70 | 15 |
 
 ---
 
@@ -18,14 +18,14 @@
 - [data structures](#data-structures) (4)
 - [dp](#dp) (5)
 - [games](#games) (2)
-- [greedy](#greedy) (36)
+- [greedy](#greedy) (37)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (36)
 - [number theory](#number-theory) (9)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (8)
-- [strings](#strings) (6)
+- [sortings](#sortings) (9)
+- [strings](#strings) (7)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -101,6 +101,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.java) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.java) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
@@ -149,6 +150,7 @@
 |---|---------|------------|----------|
 | 14A | [Letter](https://codeforces.com/contest/14/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/14/A%20-%20Letter/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 912A | [Tricky Alchemy](https://codeforces.com/contest/912/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/912/A%20-%20Tricky%20Alchemy/solution.java) |
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.java) |
 | 2211A | [Antimedian Deletion](https://codeforces.com/contest/2211/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2211/A%20-%20Antimedian%20Deletion/solution.java) |
@@ -225,6 +227,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2220/A%20-%20Blocked/solution.java) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2232/A%20-%20Convergence/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
@@ -239,6 +242,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.java) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.java) |
