@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 75 | 15 |
+| 76 | 15 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [greedy](#greedy) (37)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (17)
-- [math](#math) (36)
+- [math](#math) (37)
 - [number theory](#number-theory) (9)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (9)
@@ -173,6 +173,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.java) |
 | 2211A | [Antimedian Deletion](https://codeforces.com/contest/2211/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2211/A%20-%20Antimedian%20Deletion/solution.java) |
 | 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.java) |
