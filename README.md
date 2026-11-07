@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 15 |
+| 79 | 15 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [brute force](#brute-force) (13)
 - [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (4)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [games](#games) (2)
-- [greedy](#greedy) (38)
+- [greedy](#greedy) (39)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (19)
 - [math](#math) (37)
@@ -84,6 +84,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 2222A | [A Wonderful Contest](https://codeforces.com/contest/2222/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2222/A%20-%20A%20Wonderful%20Contest/solution.java) |
 | 2236E | [Friendly Gifts](https://codeforces.com/contest/2236/problem/E) | 1700 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2236/E%20-%20Friendly%20Gifts/solution.java) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.java) |
@@ -104,6 +105,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.java) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.java) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
