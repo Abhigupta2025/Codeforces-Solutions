@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 15 |
+| 85 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (13)
+- [brute force](#brute-force) (14)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (6)
@@ -42,6 +42,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/268/A%20-%20Games/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 | 2222A | [A Wonderful Contest](https://codeforces.com/contest/2222/problem/A) | 800 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2222/A%20-%20A%20Wonderful%20Contest/solution.java) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Java 8](https://github.com/Abhigupta2025/Codeforces-Solutions/blob/HEAD/2225/B%20-%20Alternating%20String/solution.java) |
